@@ -1,4 +1,4 @@
-# Azure Forms Regocognizer Demo
+# Azure Forms Recognizer Demo
 With sample files
 
 ## Uploading Training DataSet
